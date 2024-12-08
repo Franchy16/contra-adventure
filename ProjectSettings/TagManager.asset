@@ -42,3 +42,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 795256065
+    locked: 0
+  - name: Foreground
+    uniqueID: 1383495861
+    locked: 0
+  - name: Kinematic Object
+    uniqueID: 1892775867
+    locked: 0
+  - name: Character
+    uniqueID: 3734624267
+    locked: 0
+  - name: Effect
+    uniqueID: 250135669
+    locked: 0
