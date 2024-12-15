@@ -6,14 +6,11 @@ public class PoolBullets : Pool
 {
     public static PoolBullets instance;
     private float amountOfPool;
-    public bool canPool;
+    public bool canPool = true;
     private void Awake()
     {
         if (instance == null)
             instance = this;
-        else
-            Destroy(this);
-        canPool = true;
     }
     private void Start()
     {
